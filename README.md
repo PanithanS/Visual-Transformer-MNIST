@@ -8,3 +8,5 @@
 4. The transformer architecture learns long-range dependencies between the patches.
 5. The output of the transformer architecture is a vector that represents the handwritten digit image.
 6. We then use a classifier to predict the digit that the handwritten digit image represents.
+
+![image](https://github.com/PanithanS/Visual-Transformer-MNIST/assets/83627892/f665f873-8411-47eb-bf3f-994432b4efa3)
