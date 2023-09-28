@@ -9,3 +9,7 @@
 5. We then use a classifier to predict the digit that the handwritten digit image represents.
 
 ![image](https://github.com/PanithanS/Visual-Transformer-MNIST/assets/83627892/f665f873-8411-47eb-bf3f-994432b4efa3)
+
+# Prediction output
+
+![image](https://github.com/PanithanS/Visual-Transformer-MNIST/assets/83627892/7b9b689c-195d-4231-a6c5-c0a9f74fc042)
